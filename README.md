@@ -12,22 +12,4 @@ SteamCMD GUI by Raúl 'Dio Joestar' Jiménez is licensed under a [Creative Commo
 Last Changes
 ============
 ###### Version 3.1.0.2
-* Custom Mod now is saved by XML config ~ By Melo88 @ GitHub
-
-Screenshots
-============
-<img width="160" src="/Media/Screenshots/install_tab.png" />
-<img width="160" src="/Media/Screenshots/run_tab.png" />
-<img width="160" src="/Media/Screenshots/console_tab.png" />
-
-Download
-============
-Get the last version from GitHub right [here] (https://github.com/DioJoestar/SteamCMD-GUI/releases/latest) or use one of the mirrors from below.
-
-###### Mirrors
-* [Gamebanana] (http://steam.gamebanana.com/tools/5560)
-* [Dropbox] (https://dl.dropboxusercontent.com/u/12664902/SteamCMD%20GUI.zip)
-
-Tutorials
-============
-* [Here] (/Documentation/Authors.txt) you can find a few tutorials, in different languages, made by the community. Personally, I recommend this [video guide by iLuZiioNz] (https://www.youtube.com/watch?v=ZLY76YVFKqk)
+Added 7 Days To Die Game To The List
